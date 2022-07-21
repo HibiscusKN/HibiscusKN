@@ -35,8 +35,9 @@
   <img src ="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
 </p>
 
-<br>
+<br><br>
 <div align = center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HibiscusKN&show_icons=true&theme=default_repocard)
 </div>
+<br>
