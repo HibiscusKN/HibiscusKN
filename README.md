@@ -2,8 +2,9 @@
   <img src ="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=380&section=header&text=Welcome!&desc=Hibiscus%20KN's%20Github%20Profile&fontSize=90"/>
 </h1>
 
-<p align="center">
-  안녕하세요. 대학교에서 재학하며 게임 개발을 취미로 공부하고 있는 학생입니다.
+<p align="center"><br>
+  안녕하세요. 대학교에서 재학하면서 게임 개발을 취미로 공부하고 있는 학생입니다.<br>
+  다양하게 찍먹(?)하다 보니 하나를 깊게 판 기억은 없어서, 이번 기회에 새롭게 배우려는 자세로 공부하려 합니다.
 </p><br><br>
 
 <h3 align="center">- Tech Stack -</h3>
