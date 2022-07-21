@@ -6,7 +6,7 @@
   안녕하세요.<br>
   대학교에서 재학하면서 게임 개발을 취미로 공부하고 있는 학생입니다.<br>
   다양하게 찍먹(?)하다 보니 하나를 깊게 판 기억은 없어서, 이번 기회에 새롭게 배우려는 자세로 공부하려 합니다.
-</p><br><br>
+</p><br>
 
 <h3 align="center">- Tech Stack -</h3>
 <p align="center"> Used as the main</p>
@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Unreal%20Engine-000000?style=flat-square&logo=UnrealEngine&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>&nbsp;
 </p>
-
 <p align="center"> Used at least once</p>
   <p align ="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp;
@@ -27,7 +26,6 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
 </p>
-
 <p align="center">Another</p>
 <p align ="center">
   <img src ="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/>&nbsp;
@@ -36,7 +34,8 @@
   <img src ="https://img.shields.io/badge/After%20Effects-7700FF?style=flat-square&logo=AdobeAfterEffects&logoColor=white"/>&nbsp;
   <img src ="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
 </p>
-<br><br>
+
+<br>
 <div align = center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HibiscusKN&show_icons=true&theme=default_repocard)
