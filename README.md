@@ -2,6 +2,10 @@
   <img src ="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=380&section=header&text=Welcome!&desc=Hibiscus%20KN's%20Github%20Profile&fontSize=90"/>
 </h1>
 
+<p align="center">
+  안녕하세요. 대학교에서 재학하며 게임 개발을 취미로 공부하고 있는 학생입니다.
+</p><br><br>
+
 <h3 align="center">- Tech Stack -</h3>
 <p align="center"> Used as the main</p>
 <p align ="center">
@@ -29,9 +33,4 @@
   <img src ="https://img.shields.io/badge/Premiere%20Pro-9933FF?style=flat-square&logo=AdobePremierePro&logoColor=white"/>&nbsp;
   <img src ="https://img.shields.io/badge/After%20Effects-7700FF?style=flat-square&logo=AdobeAfterEffects&logoColor=white"/>&nbsp;
   <img src ="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
-</p>
-<br><br>
-<p align="center">
-  프로그래밍에 대해 아는게 별로 없는 대학생입니다.<br>
-  시간 날 때 조금씩 배우면서 게임 개발을 하려고 깃허브를 시작했습니다.
 </p>
