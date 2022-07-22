@@ -40,7 +40,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HibiscusKN&show_icons=true&theme=default_repocard)
 
-<br>
-<a href="https://hibiscuskn.tistory.com/">블로그</a>
 </div>
 <br>
