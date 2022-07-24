@@ -39,6 +39,5 @@
 <div align = center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HibiscusKN&show_icons=true&theme=default_repocard)
-
 </div>
 <br>
