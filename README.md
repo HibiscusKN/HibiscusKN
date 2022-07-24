@@ -36,9 +36,12 @@
   <img src ="https://img.shields.io/badge/Ableton%20Live-000000?style=flat-square&logo=AbletonLive&logoColor=white"/>
 </p>
 
-<br><br>
+<br>
 <div align = center>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hibiscuskn)](https://solved.ac/hibiscuskn) <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HibiscusKN&show_icons=true&theme=default_repocard)
+
+  
 </div>
 <br>
