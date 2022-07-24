@@ -32,7 +32,8 @@
   <img src ="https://img.shields.io/badge/Autodesk%203D%20Max-8696D7?style=flat-square&logo=Autodesk&logoColor=white"/>&nbsp;
   <img src ="https://img.shields.io/badge/Premiere%20Pro-9933FF?style=flat-square&logo=AdobePremierePro&logoColor=white"/>&nbsp;
   <img src ="https://img.shields.io/badge/After%20Effects-7700FF?style=flat-square&logo=AdobeAfterEffects&logoColor=white"/>&nbsp;
-  <img src ="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>&nbsp;
+  <img src ="https://img.shields.io/badge/Ableton%20Live-000000?style=flat-square&logo=AbletonLive&logoColor=white"/>
 </p>
 
 <br><br>
