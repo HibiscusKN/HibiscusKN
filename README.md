@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center"><br>
-  잡다하게 찍먹해보는 대학생.
+  잡다하게 찍먹하며 게임 개발하는 대학생.
 </p><br>
 
 <h3 align="center">- Tech Stack -</h3>
