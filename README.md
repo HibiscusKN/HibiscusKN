@@ -37,8 +37,7 @@
 <br>
 <div align = center>
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hibiscuskn)](https://solved.ac/hibiscuskn) <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HibiscusKN&show_icons=true&theme=default_repocard)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hibiscuskn)](https://solved.ac/hibiscuskn) <br>
 
   
 </div>
