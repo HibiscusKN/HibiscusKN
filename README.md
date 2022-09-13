@@ -34,11 +34,4 @@
   <img src ="https://img.shields.io/badge/Ableton%20Live-000000?style=flat-square&logo=AbletonLive&logoColor=white"/>
 </p>
 
-<br>
-<div align = center>
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hibiscuskn)](https://solved.ac/hibiscuskn) <br>
-
-  
-</div>
-<br>
+<br><br>
