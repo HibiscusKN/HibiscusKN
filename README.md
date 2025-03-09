@@ -1,11 +1,3 @@
-<h1 align="center">
-  <img src ="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=380&section=header&text=Welcome!&desc=Hibiscus%20KN's%20Github%20Profile&fontSize=90"/>
-</h1>
-
-<p align="center"><br>
-  잡다하게 찍먹하며 게임 개발하는 대학생.
-</p><br>
-
 <h3 align="center">- Tech Stack -</h3>
 <p align="center"> Used as the main</p>
 <p align = "center">
